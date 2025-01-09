@@ -1,0 +1,6 @@
+[submodule "tutorial"]
+	path = tutorial
+	url = git@github.com:p4lang/tutorials.git
+[submodule "final_project/sdn_final_project"]
+	path = final_project/sdn_final_project
+	url = git@github.com:owen-chw/sdn_final_project.git
